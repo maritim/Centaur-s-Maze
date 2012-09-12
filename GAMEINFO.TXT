@@ -1,7 +1,0 @@
-6
-maps\stage1.map
-maps\stage2.map
-maps\stage3.map
-maps\stage4.map
-maps\stage5.map
-maps\stage6.map
